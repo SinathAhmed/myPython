@@ -27,6 +27,8 @@ print(f"BMI: {BMI:.2f}")
 if BMI < 18.5:
     print("Underweight")
 elif 18.5 <= BMI < 25.0:
+
+#3. Write a program where you will be given three numbers. You will have to find the next number.
     print("Normal weight")
 elif 25.0 <= BMI < 30.0:
     print("Overweight")
