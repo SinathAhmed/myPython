@@ -17,7 +17,7 @@ else:
 
 #2. Write a program where user will give height(height) and weight(kg) and then BMI will be calculated.
 
-inp = map(float, input().split())
+"""inp = map(float, input().split())
 h, w = inp
 h = float(h)
 w = int(w)
@@ -30,4 +30,12 @@ elif 18.5 <= BMI < 25.0:
 elif 25.0 <= BMI < 30.0:
     print("Overweight")
 else:
-    print("Obese")
+    print("Obese")"""
+
+# 3. Write a program where you will be given three numbers. You will have to find the next number.
+
+inp = map(int, input("give: ").split())
+a, b, c = inp
+x = b - a
+result = c + x
+print(result)
