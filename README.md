@@ -12,3 +12,9 @@
     <a href = "https://github.com/SinathAhmed/myPython/blob/main/TemperatureConvert.py" target="_blank"> Temperature Convertion </a>
   </li>
 </ol>
+
+  <li>
+    <a href = "https://github.com/SinathAhmed/myPython/blob/main/ostad_Module_12_python_practice.py" target="_blank"> ostad_Module_12_python_practice </a>
+  </li>
+</ol>
+
