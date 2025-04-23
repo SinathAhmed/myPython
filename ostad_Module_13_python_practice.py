@@ -23,7 +23,7 @@ count = 0
 
 
 for x in arr[0:]: 
-    for y in arr[1:]:
+    for y in arr[1:]: 
         for z in arr[2:]:
             if x + y + z == target:
                 count+=1
