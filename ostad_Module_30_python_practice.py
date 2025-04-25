@@ -7,6 +7,15 @@
 # else:
 #     print(f"{inp} is not a leap year.")
 
+#2 Write a program to calculate distance between two points.
+
+inp1 = map(int, input().split())
+inp2 = map(int, input().split())
+
+a, b = inp1
+c, d = inp2
+
+
 #3 Write a program that checks if a number entered by the user is positive, negative, or zero.
 
 # inp = int(input())
