@@ -9,11 +9,15 @@
 
 #2 Write a program to calculate distance between two points.
 
+
 inp1 = map(int, input().split())
 inp2 = map(int, input().split())
 
 a, b = inp1
 c, d = inp2
+
+distance = ((c - a) ** 2 + (d - b) ** 2) ** 0.5
+print(f"The distance between the two points is: {distance:.2f}")
 
 
 #3 Write a program that checks if a number entered by the user is positive, negative, or zero.
